@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/rish3119/Rishav-kumar/blob/main/banner.png" alt="Profile Banner" />
-</p>
-
 # Hi 👋, I'm Rishav Kumar  
 
 **SAP Basis & Redwood Administrator | C, C++, Python & Linux Enthusiast**  
